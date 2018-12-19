@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from random import randint
-import matplotlib.animation as animation
+
 
 
 
