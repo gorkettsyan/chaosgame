@@ -1,10 +1,6 @@
 import matplotlib.pyplot as plt
 from random import randint
 
-
-
-
-
 x = [2, 6, 4, 3]
 y = [3, 3, 14, 8]
 
