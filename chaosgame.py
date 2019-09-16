@@ -1,9 +1,6 @@
 import matplotlib.pyplot as plt
 from random import randint
 
-
-
-
 def sierpinski(n):
     x = [2, 6, 4, 3]
     y = [3, 3, 14, 8]
