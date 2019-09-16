@@ -25,8 +25,6 @@ def sierpinski(n):
     plt.plot(x, y, 'b.')
     plt.show()
 
-
-
 sierpinski(100000)
 
 
