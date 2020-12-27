@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
 from random import randint
+import matplotlib.pyplot as plt
 
 def sierpinski(n):
     x = [2, 6, 4, 3]
